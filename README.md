@@ -16,8 +16,6 @@ INFO: HHH000397: Using ASTQueryTranslatorFactory
 <br>&emsp;	Not yet, but you may add some
 <br>add Some Author
 <br>Book name must be in quotes
-<br>add Some Author "H"a
-<br>Book name must be greater than zero
 <br>add Some Author "Harry Potter"
 <br>book  Some Author  Harry Potter was added
 <br>add Some Author "Harry Potter"
