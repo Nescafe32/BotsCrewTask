@@ -90,4 +90,4 @@ INFO: HHH000397: Using ASTQueryTranslatorFactory
 <br>Book  Some Author  H P was removed
 <br>all books
 <br>Our books:
-<br>	Not yet, but you may add some
+<br>&emsp;	Not yet, but you may add some
